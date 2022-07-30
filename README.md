@@ -1,6 +1,3 @@
 # crypto
-semester 3 project
-to do :
-(1) create CRUD
-(2) make more tables in database
-(3) 
+cancelled project
+i was about to make this crypto theme website with codeigniter for simple front-end and working back-end functions
